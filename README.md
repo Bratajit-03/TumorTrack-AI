@@ -1,8 +1,6 @@
-# Tumor Track AI
+# TumorTrack AI
 
-Tumor Track AI is an advanced web application designed for precise detection of brain tumors from MRI images. Utilizing transfer learning with the powerful Inception V3 architecture, the model effectively harnesses pre-trained weights to ensure accurate predictions.
-
-This sophisticated system is crafted on the principles of transfer learning, a technique proven to enhance model performance by leveraging knowledge gained from one task to improve learning and performance on another. Trained over 25 epochs, the model demonstrates remarkable performance metrics, achieving a commendable accuracy of 93.69% on the training dataset. Furthermore, on the validation dataset, it maintains a robust accuracy of 80.20%, affirming its reliability in real-world scenarios.
+TumorTrack AI is a Transfer Learning based brain tumor classification system capable of predicting type of brain tumor using MRI images.It is trained using Inception V3 architecture and has acquired an accuracy of 93.69% on the training dataset and 80.20% on the validation dataset.
 
 # How to Run
 
